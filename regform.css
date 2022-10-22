@@ -1,0 +1,131 @@
+img {margin:-200px 90px;}
+h1 {color: rgb(0, 0, 0); 
+    size: 50%; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    vertical-align: middle;        
+    margin: -50px -50px;
+    background-color: rgba(82, 82, 82, 0.719); 
+    width: 105%; margin: -4.0%}
+p {color: rgb(0, 0, 0);
+    text-align: right; }
+a {color:black; 
+    text-decoration:none;
+    padding: 30px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.background{
+    background-color: rgb(87, 87, 87);
+    width: 700px;
+    padding: 25px;
+    margin-top: 7%;
+    margin-left: 300px;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: rgb(0, 0, 0);
+    border-width: 5px
+}
+.p{
+    margin-right: 56.5%;
+    margin-top: -4%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input{
+    width: 222px;
+    height: 25px;
+}
+label{
+    margin-right: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+select{
+    height: 31px;
+    width: 165px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.a{
+    width: 99%;
+}
+.d{
+    width: 15%;
+}
+.m{
+    width: 15%;
+}
+.y{
+    width: 15%;
+}
+.g{
+    margin-left: 35px; width: 47.5%;
+}
+.day{
+    margin-right: 78px;
+}
+.month{
+    margin-right: 65px;
+}
+.sa{
+    width: 99%
+}
+.city{
+    width: 46%;
+    margin-right: 5%
+}
+.sp{
+    width: 46%
+}
+.cty{
+    margin-right: 48%
+}
+.pzc{ width: 99%
+
+}
+.em{
+    width: 46%;
+    margin-right: 5%
+}
+.num{
+    width: 46%;
+}
+.pn{
+    width: 46%;
+    margin-right: 5%
+}
+.wn{
+    width: 46%;
+}
+.com{
+   width: 46%;
+}
+.cour{
+    width: 47%;
+    height: 31px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.addcom{
+    width: 99%
+}
+.sub{
+    background-color: rgb(26, 26, 26);
+    color: rgb(255, 255, 255);
+    margin-left: 13%;
+    margin-right: 10%;
+    font-size: 20px;
+    height: 40px;
+    border-style: solid;
+    border-radius: 20px
+}
+.res{
+    background-color: rgb(26, 26, 26);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    height: 40px;
+    border-style: solid;
+    border-radius: 20px
+}
